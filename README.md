@@ -1,4 +1,4 @@
-# dashboard
+# Calculator App
 
 A new Flutter project.
 
